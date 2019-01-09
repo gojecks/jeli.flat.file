@@ -10,7 +10,7 @@ Javascript Database for NodeJS developement
     drop()
    ```
    
- ###usuage
+ ##usuage
 ``` var jff = require('jeli.flat.file');
  var instance = new jff({
   folderPath: '/tmp/',
