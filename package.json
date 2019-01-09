@@ -1,0 +1,29 @@
+{
+  "name": "jeli.flat.file",
+  "version": "0.0.1",
+  "description": "Javascript Database for NodeJS developement",
+  "main": "dist/jeli.db.flat-file.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gojecks/jeli.flat.file.git"
+  },
+  "keywords": [
+    "database",
+    "flat-file",
+    "jeliDB",
+    "db",
+    "javasccript",
+    "nodejs",
+    "web",
+    "nosql"
+  ],
+  "author": "Gojecks Joseph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gojecks/jeli.flat.file/issues"
+  },
+  "homepage": "https://github.com/gojecks/jeli.flat.file#readme"
+}
